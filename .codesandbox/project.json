@@ -11,6 +11,10 @@
             "command": "yarn"
         },
         {
+            "name": "Error",
+            "command": "nod"
+        },
+        {
             "name": "Dummy 2",
             "command": "node"
         },
