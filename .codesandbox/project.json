@@ -11,12 +11,12 @@
             "command": "yarn"
         },
         {
-            "name": "Dummy",
-            "command": "ls"
-        },
-        {
             "name": "Dummy 2",
             "command": "nod"
+        },
+        {
+            "name": "Dummy",
+            "command": "ls"
         }
     ]
 }
