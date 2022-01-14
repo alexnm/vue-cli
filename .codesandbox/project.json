@@ -16,7 +16,7 @@
         },
         {
             "name": "Dummy 2",
-            "command": "git diff"
+            "command": "node"
         }
     ]
 }
